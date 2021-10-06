@@ -1,6 +1,6 @@
 package Ora6;
 
-public class ShumaNumrave {
+public class Metoda10ShumaNumrave {
     static int myMethod(int nr1, int nr2){
         return  nr1 + nr2;
     }

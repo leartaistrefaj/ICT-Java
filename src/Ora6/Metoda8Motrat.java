@@ -1,6 +1,6 @@
 package Ora6;
 
-public class MyClass {
+public class Metoda8Motrat {
     static void metodaNje(String emri){
         System.out.println(emri + " Berisha ");
     }

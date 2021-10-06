@@ -1,6 +1,6 @@
 package Ora6;
 
-public class Ok {
+public class Metoda9Ok {
 
     static void printOk(String fjala){
             System.out.println(fjala);
