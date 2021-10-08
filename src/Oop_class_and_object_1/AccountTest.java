@@ -20,5 +20,7 @@ public class AccountTest {
         ac3.setPassword("passs555");
         ac3.setBilanci(2800);
 
+        System.out.println("Bilanci i user-it " + ac1.getUseri() + " eshte " + ac1.getBilanci() + " euro ");
+
     }
 }
