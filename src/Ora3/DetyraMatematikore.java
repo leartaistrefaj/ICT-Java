@@ -2,7 +2,7 @@ package Ora3;
 
 public class DetyraMatematikore {
     public static void main(String[] args) {
-        
+
 
         System.out.println("f)" +  5.3+7/2+0.1);
         System.out.println("g)" +  (5.3+7)/2.0);
